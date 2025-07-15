@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile views count](https://komarev.com/ghpvc/?username=giovol)
+
 <!--
 **giovol/giovol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
